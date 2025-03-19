@@ -11,6 +11,7 @@ The Shopify App injects a dynamic survey form into the user's Cart Page, capture
 - Uses Shopify App Bridge and ScriptTag API (or Cart UI extensions) for embedding the survey.
 - RESTful API implementation for data handling.
 - Database integration (MongoDB/PostgreSQL/MySQL).
+- Supports CRUD operations for survey responses.
 
 ---
 
